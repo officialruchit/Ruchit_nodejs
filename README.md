@@ -146,12 +146,6 @@ This is a backend application for a Todo app, built with Node.js, Express, and M
    {
    Todo Delete
    }
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributions
-Contributions are welcome! Please create an issue or submit a pull request.
-
 ## Contact
 For any questions or support, please contact [official.ruchit@gmail.com](mailto:official.ruchit@gmail.com).
    
